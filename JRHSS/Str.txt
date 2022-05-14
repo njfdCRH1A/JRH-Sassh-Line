@@ -913,3 +913,6 @@ FormWall2_25R,..\..\..\Nagoya_Common\Build\Form\Countryside_Station\FormWall2_25
 Light_L,..\..\..\Nagoya_Common\Build\Form\Countryside_Station\Light_L.x
 Light_Pole,..\..\..\Nagoya_Common\Build\Form\Countryside_Station\Light_Pole.x
 Light_R,..\..\..\Nagoya_Common\Build\Form\Countryside_Station\Light_R.x
+CrossingD,Uchibo2\CrossingD.x
+roadl,Uchibo2\roadl.x
+roadr,Uchibo2\roadr.x
