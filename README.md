@@ -37,7 +37,7 @@ en-us
 
 7、Used GeneralStr made by [NT/fiv](http://kty-bvememo.hatenablog.jp/)
 
-8、Nagoya_Common [download here](http://moffbarrel.stars.ne.jp/) is required
+8、Nagoya_Common [(download here)](http://moffbarrel.stars.ne.jp/) is required
 
 My Github: [Here](https://github.com/njfdCRH1A)
 
