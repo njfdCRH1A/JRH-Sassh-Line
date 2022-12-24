@@ -60,7 +60,7 @@ My Github: [Here](https://github.com/njfdCRH1A)
 
 7、[NT/fiv](http://kty-bvememo.hatenablog.jp/) で作られたGeneralStrを使用
 
-8、Nagoya_Common [ダウンロードはこちら](http://moffbarrel.stars.ne.jp/)が必要です。
+8、Nagoya_Commonが必要です。 [ダウンロードはこちら](http://moffbarrel.stars.ne.jp/)
 
 
 私のGithubは[こちら](https://github.com/njfdCRH1A)
