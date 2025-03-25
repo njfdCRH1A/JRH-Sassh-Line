@@ -1,0 +1,77 @@
+BveTs Map 2.02:utf-8
+
+# offset
+$hoge = 0.000000;
+
+# Track['tsk1'].X
+$hoge + 50842.718;
+Repeater['tsk1'].Begin0('tsk1', 1, 4.99, 5, 'BallastPC_K_5a');
+Track['tsk1'].X.Interpolate(23.825,-120.429);
+$hoge + 50854.775;
+Track['tsk1'].X.Interpolate(18.738,1752.017);
+$hoge + 50862.638;
+Track['tsk1'].X.Interpolate(14.667,59.388);
+$hoge + 50878.000;
+Track['tsk1'].X.Interpolate(9.083,69.581);
+$hoge + 50880.915;
+Track['tsk1'].X.Interpolate(8.552,-9063.922);
+$hoge + 50893.718;
+Track['tsk1'].X.Interpolate(6.558,103.317);
+$hoge + 50909.841;
+Track['tsk1'].X.Interpolate(5.245,0.000);
+$hoge + 50911.000;
+Track['tsk1'].X.Interpolate(5.246,0.000);
+$hoge + 50914.811;
+Track['tsk1'].X.Interpolate(5.249,0.000);
+Repeater['tsk1'].End();
+
+# Track['tsk1'].Y
+$hoge + 50842.718;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50854.775;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50862.638;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50878.000;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50880.915;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50893.718;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50909.841;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50911.000;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+$hoge + 50914.811;
+Track['tsk1'].Y.Interpolate(0.000,0.000);
+
+# Track['tsk1'].Cant.Interpolate
+$hoge + 50914.811;
+Track['tsk1'].Cant.Interpolate(0.000);
+$hoge + 50880.915;
+Track['tsk1'].Cant.Interpolate(0.000);
+$hoge + 50862.638;
+Track['tsk1'].Cant.Interpolate(0.000);
+$hoge + 50842.718;
+Track['tsk1'].Cant.Interpolate(0.000);
+
+# Track['tsk1'].Cant.SetFunction
+$hoge + 50914.811;
+Track['tsk1'].Cant.SetFunction(1);
+$hoge + 50880.915;
+Track['tsk1'].Cant.SetFunction(1);
+$hoge + 50842.718;
+Track['tsk1'].Cant.SetFunction(1);
+
+# Track['tsk1'].Cant.SetCenter
+$hoge + 50914.811;
+Track['tsk1'].Cant.SetCenter(0.000);
+$hoge + 50842.718;
+Track['tsk1'].Cant.SetCenter(0.000);
+
+# Track['tsk1'].Cant.SetGauge
+$hoge + 50914.811;
+Track['tsk1'].Cant.SetGauge(0.000);
+$hoge + 50842.718;
+Track['tsk1'].Cant.SetGauge(0.000);
+
