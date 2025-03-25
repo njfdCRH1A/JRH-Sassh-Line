@@ -1,0 +1,33 @@
+BVEts Map 2.02
+
+Structure.Load('Str.txt');
+Sound.Load('Sound.txt');
+Station.Load('stations_9430D.csv');
+include 'tsutsuji/up.txt';
+include 'tsutsuji/result/tsuki1_converted.txt';
+include 'tsutsuji/result/tsuki3_converted.txt';
+include 'tsutsuji/result/iryu1_converted.txt';
+include 'tsutsuji/result/iryuz_converted.txt';
+include 'tsutsuji/result/tbtsu1_converted.txt';
+include 'tsutsuji/result/tbtsu2_converted.txt';
+include 'tsutsuji/result/tbtsu3_converted.txt';
+include 'tsutsuji/result/tsk1_converted.txt';
+include 'tsutsuji/result/tsk2_converted.txt';
+include 'tsutsuji/result/tsk3_converted.txt';
+0;
+	Legacy.Fog(10000, 20000, 255, 255, 255);
+	Adhesion.Change(0.35, 0, 0.01);
+	Irregularity.Change(0.001267914, 0.0007924465, 0.0004992413, 50, 50, 50);
+	Repeater['Rail0'].Begin0('', 1, 4.99, 5, 'BallastPC_K_5a');
+	Irregularity.Change(0.005047659, 0.003154787, 0.001987516, 50, 50, 50);
+	Track['Height'].Y.Interpolate(-0.3);
+	Repeater['Ground'].Begin0('Height', 0, 14.99, 15, 'grass');
+	Background.Change('Bg_fine_summer_mt2');
+	Repeater['Rail0'].Begin0('', 1, 4.99, 5, 'BallastPC_K_5a');
+	RollingNoise.Change(0);
+	FlangeNoise.Change(0);
+
+#Stations
+#新十津川219-273;
+273;
+Station['sta0'].Put(-1,5,5);

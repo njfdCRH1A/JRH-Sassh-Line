@@ -1,0 +1,81 @@
+BveTs Map 2.02:utf-8
+
+# offset
+$hoge = 0.000000;
+
+# Track['tsk2'].X
+$hoge + 50709.896;
+Repeater['tsk2'].Begin0('tsk2', 1, 4.99, 5, 'BallastPC_K_5a');
+Track['tsk2'].X.Interpolate(6.122,0.000);
+$hoge + 50793.000;
+Track['tsk2'].X.Interpolate(5.604,-153.872);
+$hoge + 50799.588;
+Track['tsk2'].X.Interpolate(5.429,-293.686);
+$hoge + 50804.365;
+Track['tsk2'].X.Interpolate(5.152,487.539);
+$hoge + 50840.000;
+Track['tsk2'].X.Interpolate(4.011,-324.734);
+$hoge + 50854.775;
+Track['tsk2'].X.Interpolate(3.754,465.484);
+$hoge + 50878.000;
+Track['tsk2'].X.Interpolate(3.360,358.372);
+$hoge + 50893.718;
+Track['tsk2'].X.Interpolate(3.758,97.681);
+$hoge + 50894.791;
+Track['tsk2'].X.Interpolate(3.813,95.970);
+$hoge + 50898.643;
+Track['tsk2'].X.Interpolate(4.248,0.000);
+Repeater['tsk2'].End();
+
+# Track['tsk2'].Y
+$hoge + 50709.896;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50793.000;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50799.588;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50804.365;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50840.000;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50854.775;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50878.000;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50893.718;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50894.791;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+$hoge + 50898.643;
+Track['tsk2'].Y.Interpolate(0.000,0.000);
+
+# Track['tsk2'].Cant.Interpolate
+$hoge + 50898.643;
+Track['tsk2'].Cant.Interpolate(0.000);
+$hoge + 50894.791;
+Track['tsk2'].Cant.Interpolate(0.000);
+$hoge + 50799.588;
+Track['tsk2'].Cant.Interpolate(0.000);
+$hoge + 50709.896;
+Track['tsk2'].Cant.Interpolate(0.000);
+
+# Track['tsk2'].Cant.SetFunction
+$hoge + 50898.643;
+Track['tsk2'].Cant.SetFunction(1);
+$hoge + 50894.791;
+Track['tsk2'].Cant.SetFunction(1);
+$hoge + 50709.896;
+Track['tsk2'].Cant.SetFunction(1);
+
+# Track['tsk2'].Cant.SetCenter
+$hoge + 50898.643;
+Track['tsk2'].Cant.SetCenter(0.000);
+$hoge + 50709.896;
+Track['tsk2'].Cant.SetCenter(0.000);
+
+# Track['tsk2'].Cant.SetGauge
+$hoge + 50898.643;
+Track['tsk2'].Cant.SetGauge(0.000);
+$hoge + 50709.896;
+Track['tsk2'].Cant.SetGauge(0.000);
+
